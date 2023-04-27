@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitinGautam07
 - 👀 I’m interested in ... web devolopment  
-- 🌱 I’m currently learning ...full stack web development 
+- 🌱 I’m working as ...react js web developer 
 - 💞️ I’m looking to collaborate on ...UI
 
 
